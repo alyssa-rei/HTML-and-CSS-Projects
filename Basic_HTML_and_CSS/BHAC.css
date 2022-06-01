@@ -1,0 +1,25 @@
+.heading {
+	font-family: Tahoma;
+	font-weight: 600;
+	color: deepskyblue;
+	background-color: indigo;
+	text-shadow: 1px 1px 3px yellow;
+	}
+
+ul	{
+	list-style-type: circle;
+	font-family: Tahoma;
+	font-size: 16px;
+	color: indigo;
+	background-color: deepskyblue;
+	text-shadow: 1px 1px 3px yellow;
+	}
+
+ol	{
+	list-style-type: square;
+	font-family: Tahoma;
+	font-size: 16px;
+	color: white;
+	background-color: hotpink;
+	text-shadow: 1px 1px 3px yellow;
+	}
