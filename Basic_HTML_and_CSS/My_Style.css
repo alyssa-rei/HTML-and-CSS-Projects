@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+	<body>
+	
+	<style>
+	.My_Style {
+	font-family: Courier New;
+	font-size: 26px;
+	font-weight: bold;
+	color: darkturquoise;
+	background-color: blueviolet;
+	text-align: center;
+	}
+	</style>
+
+	<p class="My_Style">
+	This paragraph is written in my style!
+	</p>
+
+	</body>
+
+</html>
